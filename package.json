@@ -1,0 +1,20 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "description": "\"# node-express-course\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0829897/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0829897/node-express-course/issues"
+  },
+  "homepage": "https://github.com/r0829897/node-express-course#readme"
+}
